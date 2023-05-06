@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721688954772",
+    "project_id": "mobilappbeadando",
+    "storage_bucket": "mobilappbeadando.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721688954772:android:76c048ff2468113fa43181",
+        "android_client_info": {
+          "package_name": "com.example.mobilalkbeadando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721688954772-qr12hpj5h299m6lfmebl7q5mc7pjcn4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilalkbeadando",
+            "certificate_hash": "6eb58af94f5cb4c21d4e95190ccda3f416adf5f5"
+          }
+        },
+        {
+          "client_id": "721688954772-83345potlvep6jk57am09qaus029h877.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDW1pyDaDfNQY-aibo2nJzpVCi599Fsb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721688954772-83345potlvep6jk57am09qaus029h877.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

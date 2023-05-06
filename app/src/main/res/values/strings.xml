@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MobilalkBeadando</string>
+    <string name="password">Jelszó</string>
+    <string name="username">Felhasználónév</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="vissza">Vissza</string>
+    <string name="description">Termék leírása:</string>
+    <string name="googleSignin">Bejelentkezés Google fiókkal</string>
+    <string name="kurzus_info_placeholder">Infó a kurzusról</string>
+    <string name="descripiton_cim">Leírás</string>
+
+    <string name="title_placeholder">Név</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Info a kurzusról</string>
+    <string name="reg_password">Jelszó (min. 6 karakter)</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>Kutya kurzus</item>
+        <item>Cica festés</item>
+        <item>Fa alapok</item>
+        <item>Fa haladó</item>
+        <item>Emberi anatómia</item>
+        <item>Posztmodern absztrakt</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Tanulj kutyust rajzolni!</item>
+        <item>Tanulj cicust festeni!</item>
+        <item>Tanulj fát rajzolni kb. 5 perc alatt!</item>
+        <item>Ismerd meg teljesen a fák rajzolásának művészetét!</item>
+        <item>Tanulj emberi testet és testrészeket rajzolni!</item>
+        <item>Modernizmus utáni művészet bájai és csodái</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>1.5</item>
+        <item>5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/kutya_vegleges</item>
+        <item>@drawable/cool_cica</item>
+        <item>@drawable/fa_kezdo</item>
+        <item>@drawable/fa</item>
+        <item>@drawable/ember</item>
+        <item>@drawable/post_modern</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>100 valami</item>
+        <item>150 valami</item>
+        <item>180 valami</item>
+        <item>400 valami</item>
+        <item>300 valami</item>
+        <item>500 valami</item>
+    </array>
+
+</resources>
